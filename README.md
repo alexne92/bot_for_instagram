@@ -9,7 +9,7 @@ The purpose of this project is to help the user to perform the following operati
 - like photos
 - comment posts
 
-All these operations are based on the hashtags that the user is interested into.
+All these operations are based on the hashtags that the user has interested into.
 
 ## Table of Contents:
 
