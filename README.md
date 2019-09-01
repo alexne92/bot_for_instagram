@@ -2,11 +2,13 @@
 
 ## About
 
-bot_for_instagram is a pure-python code to automate the process of several tasks in instagram.
+bot_for_instagram is a pure-python code to automate the process of several tasks in instagram.\
 The purpose of this project is to help the user to perform the following operations:
--follow other users 
--like photos
--comment posts
+
+- follow other users 
+- like photos
+- comment posts
+
 All these operations are based on the hashtags that the user is interested into.
 
 ## Table of Contents:
