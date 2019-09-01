@@ -1,1 +1,3 @@
-bot_for_instagram_env
+bot_for_instagram_env/
+*.json
+*.exe
