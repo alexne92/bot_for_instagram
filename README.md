@@ -52,6 +52,11 @@ To install the requirements directly from the file, use the following command:
 $ pip install -r requirements.txt
 ````
 
+Last but not least, a webdriver is needed to get access to Instagram.
+The current code uses the chrome webdriver, which can be downloaded from [here](https://chromedriver.storage.googleapis.com/index.html).
+Specifically, the chromedriver for this project is located in the folder [75.0.3770.90](https://chromedriver.storage.googleapis.com/index.html?path=75.0.3770.90/).
+
+
 ## Configuration
 
 Before using the bot, or whenever a change on the credentials is needed, the user has to use the create_credentials.py file.\
